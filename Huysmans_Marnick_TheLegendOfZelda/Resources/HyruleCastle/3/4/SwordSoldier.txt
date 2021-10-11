@@ -1,0 +1,2 @@
+0:(207, 224);green;true
+1:(293, 224);green;true

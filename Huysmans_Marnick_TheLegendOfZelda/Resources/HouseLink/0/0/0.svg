@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="256"
+   height="224"
+   viewBox="0 0 256 224"
+   sodipodi:docname="0.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     showborder="false"
+     inkscape:zoom="1.8928571"
+     inkscape:cx="86.967022"
+     inkscape:cy="133.8648"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:none">
+    <image
+       sodipodi:absref="E:\OneDrive\OneDrive - Hogeschool West-Vlaanderen\C++_2\07_ErrorHandling_MiniGame5_Lab\1DAE18_07_huysmans_marnick\Huysmans_Marnick_TheLegendOfZelda\Huysmans_Marnick_TheLegendOfZelda\Resources\HouseLink\0\0\0.png"
+       xlink:href="0.png"
+       y="0"
+       x="0"
+       id="image18"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="224"
+       width="256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56,168 H 88 V 144 H 56 Z"
+       id="path3730" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 184,144 v -16 h 16 V 96 H 184 V 80 h -16 v 16 h -16 v 32 h 16 v 16 z"
+       id="path3732" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216,224 v -40 h -80 v 32 H 120 V 184 H 40 V 56 H 56 V 96 H 88 V 56 h 16 v 8 h 48 v -8 h 16 v 8 h 32 v -8 h 16 v 128 h 40 V 0 H 0 v 224 z"
+       id="path54" />
+  </g>
+</svg>

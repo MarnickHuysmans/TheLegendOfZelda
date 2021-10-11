@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   sodipodi:docname="31.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="true"
+     showborder="false"
+     inkscape:zoom="1.1711456"
+     inkscape:cx="178.94376"
+     inkscape:cy="260.22397"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20"
+       empcolor="#ff3f3f"
+       empopacity="0.25098039"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image"
+     style="display:none">
+    <image
+       sodipodi:absref="E:\OneDrive\OneDrive - Hogeschool West-Vlaanderen\Python\Image\LightWorld\31\31.png"
+       xlink:href="31.png"
+       width="512"
+       height="512"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image18"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Image 1"
+     style="display:none">
+    <image
+       sodipodi:absref="E:\OneDrive\OneDrive - Hogeschool West-Vlaanderen\Python\Image\LightWorld\31\31SVG.png"
+       xlink:href="31SVG.png"
+       y="0"
+       x="0"
+       id="image45"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="512"
+       width="512" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="SVG"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="m 448,0 v 29 l -64,63 v 90 l 32,33 v 79 l 78,79 h 18 V 342 H 502 L 450,290 V 210 L 418,178 V 110 L 482,46 V 0 Z"
+       id="path2808" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="M 0,0 V 192 H 32 V 144 H 56 V 96 h 72 V 48 h 24 V 0 Z"
+       id="path2806" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="m 118,120 -38,38 v 48 L 54,232 H 0 v 18 h 48 v 22 h 24 v -8 h 8 v -8 h 8 v -8 h 8 v -8 h 8 v -8 h 8 v -8 h 8 v -48 h -14 v -16 l 22,-22 h 112 l 38,38 v 160 l -6,6 H 128 l -16,-16 h -4 v 10 l 4,26 8,8 v 6 l 8,8 h 146 l 30,-30 V 174 l -54,-54 z"
+       id="path2804" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="M 64,326 48,342 H 0 v 42 h 48 l 8,-8 v -6 l 8,-8 4,-26 v -10 z"
+       id="path2802" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="M 86,424 70,440 H 0 v 72 h 208 v -34 l -38,-38 h -32 l -16,-16 z"
+       id="path2800" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
+       d="m 302,432 -46,46 v 34 h 256 v -80 z"
+       id="path49" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144,272 v -96 h 96 v 96 h -32 v 4 h -8 v -36 h -16 v 36 h -8 v -4 z"
+       id="path2794" />
+  </g>
+</svg>

@@ -1,0 +1,2 @@
+0:(21, 163);green;true
+1:(43, 50);green;true
